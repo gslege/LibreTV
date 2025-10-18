@@ -1,9 +1,14 @@
 const CUSTOMER_SITES = {
    qiqi: { 
         api: 'https://collect.wolongzyw.com/api.php/provide/vod/',
-        name: '立即播放',
+        name: '默认资源',
+         }，
+
+   qiqi: { 
+        api: 'https://api.apibdzy.com/api.php/provide/vod/',
+        name: '百度资源',
          }
-    
+
 };
 
 // 调用全局方法合并

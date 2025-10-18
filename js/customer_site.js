@@ -1,9 +1,7 @@
 const CUSTOMER_SITES = {
-   qiqi: {
-            
+   qiqi: { 
         api: 'https://collect.wolongzyw.com/api.php/provide/vod/',
-        name: '正片资源',
-       
+        name: '立即播放',
          }
     
 };

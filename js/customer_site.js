@@ -19,15 +19,6 @@ const CUSTOMER_SITES = {
       "api": "https://360zy.com/api.php/provide/vod",
       "name": "360资源"
     },
-    "ffzy": {
-      "api": "http://ffzy5.tv/api.php/provide/vod",
-      "name": "非凡影视",
-      "detail": "http://ffzy5.tv"
-    },
-    "zy360": {
-      "api": "https://360zy.com/api.php/provide/vod",
-      "name": "360资源"
-    },
     "xiaomaomi": {
       "api": "https://wwzy.tv/api.php/provide/vod",
       "name": "旺旺短剧"

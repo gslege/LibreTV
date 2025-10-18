@@ -1,12 +1,10 @@
 const CUSTOMER_SITES = {
-    qiqi: {
-        api: 'https://hongniuzy2.com/api.php/provide/vod/',
-        name: '红牛资源',
-    }
-        qiqi: {
+   qiqi: {
+            
         api: 'https://collect.wolongzyw.com/api.php/provide/vod/',
         name: '正片资源',
-    }
+       
+         }
     
 };
 

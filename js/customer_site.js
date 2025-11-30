@@ -2,6 +2,10 @@ const CUSTOMER_SITES = {
     "dyttzy": {
       "api": "https://collect.wolongzyw.com/api.php/provide/vod",
       "name": "默认资源",
+    },
+     "heimuer": {
+      "api": "https://api.apibdzy.com/api.php/provide/vod",
+      "name": "百度资源",
     }
 };
 
